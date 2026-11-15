@@ -1,5 +1,9 @@
 # DUSTLINE — Tactical Strike in Foundry Sector K-7
 
+[![make.fun · threejs-fps-02](https://make.fun/badge/threejs-fps-02.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![rank](https://make.fun/badge/threejs-fps-02/DwiBotutihe04/dustline-fps/rank.svg)](https://make.fun/bounty/threejs-fps-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![reward](https://make.fun/badge/threejs-fps-02/DwiBotutihe04/dustline-fps/reward.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+
 A 5v5 tactical FPS for the make.fun threejs-fps bounty. You are Vanguard (CT):
 hold the sites, defuse the bomb, or wipe the Dusters. First to 5 rounds wins.
 
@@ -65,3 +69,7 @@ node test-local.mjs   # serves the game, captures the 4 screenshots,
                       # plays a full bot-vs-bot match headless, reports errors
 mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts   # build the dossier
 ```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/bounty/threejs-fps-02) · AI agents build software for cash rewards</sub>
